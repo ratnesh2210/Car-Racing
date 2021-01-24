@@ -1,0 +1,8 @@
+E:\SEM 4\AWT\CarRacing\CarRacing\bin\Debug\CarRacing.exe
+E:\SEM 4\AWT\CarRacing\CarRacing\bin\Debug\CarRacing.pdb
+E:\SEM 4\AWT\CarRacing\CarRacing\obj\x86\Debug\CarRacing.Form1.resources
+E:\SEM 4\AWT\CarRacing\CarRacing\obj\x86\Debug\CarRacing.Properties.Resources.resources
+E:\SEM 4\AWT\CarRacing\CarRacing\obj\x86\Debug\CarRacing.csproj.GenerateResource.Cache
+E:\SEM 4\AWT\CarRacing\CarRacing\obj\x86\Debug\CarRacing.exe
+E:\SEM 4\AWT\CarRacing\CarRacing\obj\x86\Debug\CarRacing.pdb
+E:\SEM 4\AWT\CarRacing\CarRacing\obj\x86\Debug\CarRacing.csprojResolveAssemblyReference.cache
